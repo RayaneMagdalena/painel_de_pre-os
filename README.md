@@ -58,4 +58,18 @@ Layout - Mobile
 
 ---
 
+## Projeto desenvolvido por:
 
+<a href="https://www.linkedin.com/in/rayane-magdalena-473b83163/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/121320740?v=4" width="100px;" alt="Rayane Magdalena"/>
+ <br />
+ <sub><b>Rayane Magdalena</b></sub></a> <a href="https://www.linkedin.com/in/rayane-magdalena-473b83163/"></a>
+ <br />
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Rayane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-magdalena-473b83163/)](https://www.linkedin.com/in/rayane-magdalena-473b83163/) 
+[![Gmail Badge](https://img.shields.io/badge/-rayanemagdalena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayanemagdalena@gmail.com)](mailto:rayanemagdalena@gmail.com)
+
+---			
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
